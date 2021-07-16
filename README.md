@@ -1,6 +1,6 @@
 # Internshala Internship Scraper.
 
-##Scrapes Internship upto the specified page.
+## Scrapes Internship upto the specified page.
 
 Simply run main.py using the following command 
 ```bash
